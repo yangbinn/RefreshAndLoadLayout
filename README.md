@@ -3,3 +3,5 @@
 
 ![线性效果](https://github.com/yangbinn/RefreshAndLoadLayout/blob/master/doc/GIF.gif)
 
+![瀑布流效果](https://github.com/yangbinn/RefreshAndLoadLayout/blob/master/doc/GIF1.gif)
+
