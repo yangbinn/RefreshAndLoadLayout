@@ -1,2 +1,4 @@
 # RefreshAndLoadLayout
-继承google的SwipeRefreshLayout可加载控件
+继承google的SwipeRefreshLayout的可加载控件
+
+
